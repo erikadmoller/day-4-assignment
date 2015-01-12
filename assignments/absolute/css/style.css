@@ -1,0 +1,33 @@
+
+body {
+	margin: 50px;
+}
+
+.box-header {
+	width: 250px;
+	height: 250px;
+	background-color: green;
+	position: absolute;
+	top: 20px;
+	margin: 0 10px 0 10px;
+	float: left;
+	color: white;
+	padding: 10px;
+}
+
+.box-price {
+	width: 250px;
+	height: 250px;
+	background-color: blue;
+	margin: 0 10px 0 10px;
+	float: left;
+
+}
+
+.box-footer {
+	width: 250px;
+	height: 250px;
+	background-color: purple;
+	margin: 0 10px 0 10px;
+	float: left;
+}

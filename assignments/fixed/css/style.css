@@ -1,0 +1,30 @@
+
+body {
+	margin: 50px;
+}
+
+.box-header {
+	width: 250px;
+	height: 250px;
+	background-color: green;
+	margin: 0 10px 0 10px;
+	color: white;
+	padding: 10px;
+	position: fixed;
+}
+
+.box-price {
+	width: 250px;
+	height: 500px;
+	background-color: blue;
+	margin: 0 10px 0 10px;
+
+}
+
+.box-footer {
+	width: 250px;
+	height: 250px;
+	background-color: purple;
+	margin: 0 10px 0 10px;
+
+}
